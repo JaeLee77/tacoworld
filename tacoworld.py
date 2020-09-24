@@ -1,4 +1,2 @@
-print("I, Zach Lamberty, want tacos!")
-print("I, Eamon Lamberty, want tacos!")
-print("I, Zach Lamberty, want tacos more than *anyone*, especially more than Eamon!")
+print("Today, actually, I (Zach Lamberty), want OTR!")
 print("I, Eamon Lamberty, want tacos!")
